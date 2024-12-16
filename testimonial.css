@@ -1,0 +1,27 @@
+.slide-container {
+   text-align: center;
+    
+   
+}
+
+.slide-container img{
+    width:100px;
+    height:100px;
+    border-radius: 50%;  
+    
+}
+.slide-container .bi {
+    color:orange;
+    margin-left:2px;
+    margin-right:2px;
+}
+.carousel-control-prev .bi{
+    color:black;
+    font-weight:600;
+    font-size: 28px;
+}
+.carousel-control-next .bi{
+    color:black;
+    font-weight:600;
+    font-size: 28px;
+}
